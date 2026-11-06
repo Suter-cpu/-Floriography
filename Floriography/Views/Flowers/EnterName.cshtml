@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "EnterName";
+}
+<style>
+    body {
+        /* Wrapped in quotes to handle the space in "Project Images" */
+        background-image: url("/Project Images/flo6.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        font-family: 'Georgia', serif;
+
+    }
+ 
+</style>
+<center>
+    <h2>Discover Your Name in Flowers </h2>
+
+    <form method="post" action="@Url.Action("NameResult","Flowers")">
+        <input type="text" name="userName" required id="b1" />
+        <button type="submit" id="b2">See My Flowers</button>
+    </form>
+    </center>

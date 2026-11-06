@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Floriography\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|C:\\Users\\Admin\\source\\repos\\Floriography\\floriography\\views\\flowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|solutionrelative:floriography\\views\\flowers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|C:\\Users\\Admin\\source\\repos\\Floriography\\floriography\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|solutionrelative:floriography\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|C:\\Users\\Admin\\source\\repos\\Floriography\\floriography\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|solutionrelative:floriography\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|c:\\users\\admin\\source\\repos\\floriography\\floriography\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|solutionrelative:floriography\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|C:\\Users\\Admin\\source\\repos\\Floriography\\floriography\\views\\flowers\\nameresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|solutionrelative:floriography\\views\\flowers\\nameresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|C:\\Users\\Admin\\source\\repos\\Floriography\\floriography\\views\\flowers\\entername.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|solutionrelative:floriography\\views\\flowers\\entername.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|C:\\Users\\Admin\\source\\repos\\Floriography\\floriography\\models\\flowermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36EEBEA5-CF1E-4F15-8A08-BF9D51DFC287}|Floriography\\Floriography.csproj|solutionrelative:floriography\\models\\flowermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\Views\\Flowers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Floriography\\Views\\Flowers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\Views\\Flowers\\Index.cshtml",
+              "RelativeToolTip": "Floriography\\Views\\Flowers\\Index.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T12:06:06.003Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Floriography\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Floriography\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:59:15.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Floriography\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Floriography\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:59:07.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnterName.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\Views\\Flowers\\EnterName.cshtml",
+              "RelativeDocumentMoniker": "Floriography\\Views\\Flowers\\EnterName.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\Views\\Flowers\\EnterName.cshtml",
+              "RelativeToolTip": "Floriography\\Views\\Flowers\\EnterName.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T18:03:28.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlowersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\Controllers\\FlowersController.cs",
+              "RelativeDocumentMoniker": "Floriography\\Controllers\\FlowersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\Controllers\\FlowersController.cs",
+              "RelativeToolTip": "Floriography\\Controllers\\FlowersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:04:55.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NameResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\Views\\Flowers\\NameResult.cshtml",
+              "RelativeDocumentMoniker": "Floriography\\Views\\Flowers\\NameResult.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\Views\\Flowers\\NameResult.cshtml",
+              "RelativeToolTip": "Floriography\\Views\\Flowers\\NameResult.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T18:04:42.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlowerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\Models\\FlowerModel.cs",
+              "RelativeDocumentMoniker": "Floriography\\Models\\FlowerModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Floriography\\Floriography\\Models\\FlowerModel.cs",
+              "RelativeToolTip": "Floriography\\Models\\FlowerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T11:48:22.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
